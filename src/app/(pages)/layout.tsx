@@ -12,7 +12,8 @@ const notoSans = Noto_Sans({
 
 export const metadata: Metadata = {
   title: "Avondale Events",
-  description: "Local events in Avondale, Chicago.",
+  description: "Find local events in Avondale, Chicago.",
+  manifest: '/manifest.webmanifest',
 };
 
 export default function RootLayout({
