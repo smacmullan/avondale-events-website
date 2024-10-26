@@ -6,6 +6,7 @@ export type Event = {
     organizer?: {
         name: string,
     },
+    url?: string,
 };
 
 export type Organization = {

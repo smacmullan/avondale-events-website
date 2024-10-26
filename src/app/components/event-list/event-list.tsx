@@ -1,6 +1,7 @@
 import { Event } from "@/app/lib/definitions";
 import { formatTimeRange } from "@/app/lib/time";
 import { removePastEvents, generateEventSchedule, DaySchedule } from "../../lib/eventDisplay";
+import Link from "next/link";
 
 export default function EventList({ events }: { events: Event[] }) {
 
@@ -42,7 +43,7 @@ function EventListDay({ daySchedule }: { daySchedule: DaySchedule }) {
 
 function EventDisplay({ event }: { event: Event }) {
   let timeDisplay = formatTimeRange(event);
-  return (
+  const content = (
     <>
       <div className="w-1/3 font-semibold pr-6 text-right">
         {timeDisplay}
@@ -55,5 +56,14 @@ function EventDisplay({ event }: { event: Event }) {
       </div>
     </>
   );
+
+  return event.url ? (
+    <Link href={event.url} className="flex items-start w-full">
+      {content}
+    </Link>
+  ) : (
+    content
+  );
 };
+
 

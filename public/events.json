@@ -1,289 +1,12 @@
 [
   {
-    "name": "Irish Music Session",
-    "startDate": "2024-10-23T00:30:00.000Z",
-    "organizer": {
-      "name": "The Wolfhound "
-    }
-  },
-  {
-    "name": "Skirts w/ Wished Bone, Carter Ward",
-    "startDate": "2024-10-23T02:00:00.000Z",
-    "organizer": {
-      "name": "Sleeping Village"
-    }
-  },
-  {
-    "name": "Karaoke with host Millie May",
-    "startDate": "2024-10-22T22:00:00-05:00",
-    "endDate": "2024-10-23T02:00:00-05:00",
-    "organizer": {
-      "name": "Reed's Local"
-    }
-  },
-  {
-    "name": "Community Day 1/2 Off Admission",
-    "startDate": "2024-10-23T20:00:00Z",
-    "endDate": "2024-10-24T01:00:00Z",
-    "organizer": {
-      "name": "The Insect Asylum"
-    }
-  },
-  {
-    "name": "Butterfly Pinning Workshop",
-    "startDate": "2024-10-23T20:00:00Z",
-    "endDate": "2024-10-23T21:00:00Z",
-    "organizer": {
-      "name": "The Insect Asylum"
-    }
-  },
-  {
-    "name": "Beetle Pinning Workshop",
-    "startDate": "2024-10-23T22:00:00Z",
-    "endDate": "2024-10-24T00:00:00Z",
-    "organizer": {
-      "name": "The Insect Asylum"
-    }
-  },
-  {
-    "name": "Property Reassessment Appeal Workshop (Appt. Required)",
-    "startDate": "2024-10-23T22:30:00.000Z",
-    "endDate": "2024-10-24T00:30:00.000Z",
-    "organizer": {
-      "name": "8th District Office"
-    }
-  },
-  {
-    "name": "Chicago Workers Cottage Initiative Workshop & Fall Fundraiser",
-    "startDate": "2024-10-23T22:30:00.000Z",
-    "endDate": "2024-10-24T00:30:00.000Z",
-    "organizer": {
-      "name": "Reed's Local"
-    }
-  },
-  {
-    "name": "Chicago Workers Cottage Initiative",
-    "startDate": "2024-10-23T18:00:00-05:00",
-    "endDate": "2024-10-23T20:00:00-05:00",
-    "organizer": {
-      "name": "Reed's Local"
-    }
-  },
-  {
-    "name": "Oktoberfest Party ft. Revolution Brewing",
-    "startDate": "2024-10-23T20:00:00-05:00",
-    "endDate": "2024-10-24T00:00:00-05:00",
-    "organizer": {
-      "name": "Reed's Local"
-    }
-  },
-  {
-    "name": "Photay w/ justindemus",
-    "startDate": "2024-10-24T01:00:00.000Z",
-    "organizer": {
-      "name": "Sleeping Village"
-    }
-  },
-  {
-    "name": "Trivia",
-    "startDate": "2024-10-24T01:00:00.000Z",
-    "organizer": {
-      "name": "The Wolfhound "
-    }
-  },
-  {
-    "name": "Milo's Market 6-10",
-    "startDate": "2024-10-23",
-    "endDate": "2024-10-24",
-    "organizer": {
-      "name": "Consignment Lounge"
-    }
-  },
-  {
-    "name": "Spunout Listening Party",
-    "startDate": "2024-10-23",
-    "endDate": "2024-10-24",
-    "organizer": {
-      "name": "Consignment Lounge"
-    }
-  },
-  {
-    "name": "Glass Blowing",
-    "startDate": "2024-10-24T16:00:00-05:00",
-    "endDate": "2024-10-24T20:00:00-05:00",
-    "organizer": {
-      "name": "Bud & Rita’s – Avondale"
-    }
-  },
-  {
-    "name": "Mindful Living Garden campfire",
-    "startDate": "2024-10-24T17:00:00-05:00",
-    "endDate": "2024-10-24T19:00:00-05:00",
-    "organizer": {
-      "name": "Avondale Gardening Alliance"
-    }
-  },
-  {
-    "name": "Magic the Gathering: Commander Night!",
-    "startDate": "2024-10-24T17:00:00-05:00",
-    "endDate": "2024-10-24T21:00:00-05:00",
-    "organizer": {
-      "name": "Prism Games Chicago"
-    }
-  },
-  {
-    "name": "Koz Park Fall Fundraiser",
-    "startDate": "2024-10-24T23:00:00.000Z",
-    "organizer": {
-      "name": "Reed's Local"
-    }
-  },
-  {
-    "name": "A Country Western w/ Gash, Harvey Waters",
-    "startDate": "2024-10-25T01:30:00.000Z",
-    "organizer": {
-      "name": "Sleeping Village"
-    }
-  },
-  {
-    "name": "The Black Mariah Theater/Fecto Glen/Em Grace and the Undercuts",
-    "startDate": "2024-10-24T21:00:00-05:00",
-    "endDate": "2024-10-25T00:00:00-05:00",
-    "organizer": {
-      "name": "Reed's Local"
-    }
-  },
-  {
-    "name": "Pierogi Papi",
-    "startDate": "2024-10-24",
-    "endDate": "2024-10-25",
-    "organizer": {
-      "name": "Consignment Lounge"
-    }
-  },
-  {
-    "name": "Sensory Friendly Friday",
-    "startDate": "2024-10-25T16:00:00Z",
-    "endDate": "2024-10-25T20:30:00Z",
-    "organizer": {
-      "name": "The Insect Asylum"
-    }
-  },
-  {
-    "name": "Butterfly Pinning Workshop",
-    "startDate": "2024-10-25T20:00:00Z",
-    "endDate": "2024-10-25T21:00:00Z",
-    "organizer": {
-      "name": "The Insect Asylum"
-    }
-  },
-  {
-    "name": "Happy Hour Pizza Making Class",
-    "startDate": "2024-10-25T18:00:00-0500",
-    "endDate": "2024-10-25T20:00:00-0500",
-    "organizer": {
-      "name": "Tutore"
-    }
-  },
-  {
-    "name": "Halloween Party",
-    "startDate": "2024-10-26T00:00:00.000Z",
-    "organizer": {
-      "name": "Deep Red"
-    }
-  },
-  {
-    "name": "Battery Eyes/Dangerous Chairs/Post Child",
-    "startDate": "2024-10-25T21:00:00-05:00",
-    "endDate": "2024-10-26T00:00:00-05:00",
-    "organizer": {
-      "name": "Reed's Local"
-    }
-  },
-  {
-    "name": "AHHHHHHHH",
-    "startDate": "2024-10-26T03:00:00.000Z",
-    "organizer": {
-      "name": "Sleeping Village"
-    }
-  },
-  {
-    "name": "Bittersweet- Monthly Goth Dance Night with DJ Philly Peroxide",
-    "startDate": "2024-10-25T22:00:00-05:00",
-    "endDate": "2024-10-26T03:45:00-05:00",
-    "organizer": {
-      "name": "Late Bar"
-    }
-  },
-  {
-    "name": "Pierogi Papi",
-    "startDate": "2024-10-25",
-    "endDate": "2024-10-26",
-    "organizer": {
-      "name": "Consignment Lounge"
-    }
-  },
-  {
-    "name": "Terrarium Workshop",
-    "startDate": "2024-10-26T14:30:00.000Z",
-    "endDate": "2024-10-26T16:30:00.000Z",
-    "organizer": {
-      "name": "Rooted Living"
-    }
-  },
-  {
-    "name": "Mindful Living Garden work day",
-    "startDate": "2024-10-26T10:00:00-05:00",
-    "endDate": "2024-10-26T12:00:00-05:00",
-    "organizer": {
-      "name": "Avondale Gardening Alliance"
-    }
-  },
-  {
-    "name": "Pumpkinfest",
-    "startDate": "2024-10-26T10:00:00-05:00",
-    "endDate": "2024-10-26T14:00:00-05:00",
-    "organizer": {
-      "name": "Unity Park"
-    }
-  },
-  {
-    "name": "Benefit for Asheville Breweries",
-    "startDate": "2024-10-26T16:00:00.000Z",
-    "organizer": {
-      "name": "Beer Temple"
-    }
-  },
-  {
-    "name": "Storewide Sale",
-    "startDate": "2024-10-26T16:00:00.000Z",
-    "endDate": "2024-10-26T21:00:00.000Z",
-    "organizer": {
-      "name": "Monarch Thrift"
-    }
-  },
-  {
-    "name": "Brewery Tour",
-    "startDate": "2024-10-26T18:45:00.000Z",
-    "organizer": {
-      "name": "Revolution Brewing Taproom"
-    }
-  },
-  {
-    "name": "Samhain Mini Altar Making Tea Party",
-    "startDate": "2024-10-26T22:00:00Z",
-    "endDate": "2024-10-27T00:00:00Z",
-    "organizer": {
-      "name": "The Insect Asylum"
-    }
-  },
-  {
     "name": "Pasta 101 Class",
     "startDate": "2024-10-26T18:00:00-0500",
     "endDate": "2024-10-26T20:30:00-0500",
     "organizer": {
       "name": "Tutore"
-    }
+    },
+    "url": "https://www.tutorecookingschool.com/class-schedule/pasta-101-class-aawrp-8jthj-ch3sy-cwxc9-fcy67-dyy98-lpexw-5hxtc-na28y-l2r6j-bfrgy-6pjhp-25rmf-sh3wm-6xtsb-k4nk9-ay7zb-n5j7e-rxmcy"
   },
   {
     "name": "Really Scary Critter Critter Party",
@@ -291,7 +14,8 @@
     "endDate": "2024-10-26T21:00:00-0500",
     "organizer": {
       "name": "Revolution Brewing - Brewery & Taproom"
-    }
+    },
+    "url": "https://www.thebrewedcoffee.com/events/really-scary-critter-critter-party"
   },
   {
     "name": "Bric-A-Brac/The Brewed Halloween Party",
@@ -299,7 +23,17 @@
     "endDate": "2024-10-26T21:00:00-0500",
     "organizer": {
       "name": "Revolution Brewing - Brewery & Taproom "
-    }
+    },
+    "url": "https://www.bricabracrecords.com/upcoming-events/2024/10/26/bric-a-bracthe-brewed-halloween-party"
+  },
+  {
+    "name": "Rav3 To Th3 Grav3",
+    "startDate": "2024-10-26T19:00:00-05:00",
+    "endDate": null,
+    "organizer": {
+      "name": "Avondale Music Hall "
+    },
+    "url": "https://do312.com/events/2024/10/26/rav3-to-th3-grav3-tickets"
   },
   {
     "name": "Live Q&A with Rob Scallon",
@@ -315,14 +49,16 @@
     "endDate": "2024-10-27T05:00:00-05:00",
     "organizer": {
       "name": "Late Bar"
-    }
+    },
+    "url": "https://do312.com/events/2024/10/26/new-wave-halloween-saturday-oct-26th-tickets"
   },
   {
     "name": "Slo ‘Mo Party: Alter Ego",
     "startDate": "2024-10-27T02:00:00.000Z",
     "organizer": {
       "name": "Sleeping Village"
-    }
+    },
+    "url": "https://sleeping-village.com/event/slo-mo-presents-alter-ego/"
   },
   {
     "name": "Karaoke hosted by Sweet Melissa",
@@ -330,7 +66,8 @@
     "endDate": "2024-10-27T03:00:00-05:00",
     "organizer": {
       "name": "Reed's Local"
-    }
+    },
+    "url": "https://reedslocal.com/events/"
   },
   {
     "name": "2year anniversary party",
@@ -338,7 +75,8 @@
     "endDate": "2024-10-27",
     "organizer": {
       "name": "Consignment Lounge"
-    }
+    },
+    "url": "https://www.consignmentlounge.com/calendar"
   },
   {
     "name": "Venetian Dinner Party",
@@ -346,7 +84,8 @@
     "endDate": "2024-10-27T14:00:00-0500",
     "organizer": {
       "name": "Tutore"
-    }
+    },
+    "url": "https://www.tutorecookingschool.com/class-schedule/cicchetti-hhble-492ac-wr8fy-x6yj4-3ejef-lxw5s-288ns-pwwcx-ryjgz-w9hmh-r9pmw-ndcf5-3am67-g3kaa"
   },
   {
     "name": "Horror Market",
@@ -354,7 +93,8 @@
     "endDate": "2024-10-27T16:00:00-0500",
     "organizer": {
       "name": "The Brewed"
-    }
+    },
+    "url": "https://www.thebrewedcoffee.com/events/horror-market"
   },
   {
     "name": "Serpent Serenity: Uncoil Your Mind & Body Snake Yoga",
@@ -362,7 +102,8 @@
     "endDate": "2024-10-27T18:00:00Z",
     "organizer": {
       "name": "The Insect Asylum"
-    }
+    },
+    "url": "https://www.eventbrite.com/e/serpent-serenity-uncoil-your-mind-body-snake-yoga-tickets-1025505744287"
   },
   {
     "name": "Family Friendly Halloween ",
@@ -378,14 +119,16 @@
     "endDate": "2024-10-27T15:00:00-0500",
     "organizer": {
       "name": "Firefly Fiber Arts Studio"
-    }
+    },
+    "url": "https://www.fireflyfiberarts.com/new-events-1/2024/9/21/the-practice-of-gong-fu-cha-m8fxw"
   },
   {
     "name": "School Board Canvass",
     "startDate": "2024-10-27T18:00:00.000Z",
     "organizer": {
       "name": "United Neighbors of the 35th Ward"
-    }
+    },
+    "url": "https://www.un35.org/"
   },
   {
     "name": "Sensory Seeking Sunday",
@@ -393,7 +136,8 @@
     "endDate": "2024-10-27T19:30:00Z",
     "organizer": {
       "name": "The Insect Asylum"
-    }
+    },
+    "url": "https://www.eventbrite.com/e/sensory-seeking-sunday-tickets-1000834923197"
   },
   {
     "name": "Carnival of Critters & Curiosities! Sideshow and Animal Meet & Greet",
@@ -401,7 +145,17 @@
     "endDate": "2024-10-27T22:00:00Z",
     "organizer": {
       "name": "The Insect Asylum"
-    }
+    },
+    "url": "https://www.eventbrite.com/e/carnival-of-critters-curiosities-sideshow-and-animal-meet-greet-tickets-1025549625537"
+  },
+  {
+    "name": "Zowy/Sharp Pins/Answering Machines Show",
+    "startDate": "2024-10-27T17:00:00-0500",
+    "endDate": "2024-10-27T19:00:00-0500",
+    "organizer": {
+      "name": "Bric-a-Brac Records & Collectibles"
+    },
+    "url": "https://www.bricabracrecords.com/upcoming-events/2024/10/27/zowysharp-pinsanswering-machines-show"
   },
   {
     "name": "Spookyhana: Games, Face Painting, and Spooky Movies",
@@ -409,14 +163,16 @@
     "endDate": "2024-10-28T02:00:00.000Z",
     "organizer": {
       "name": "Superkhana"
-    }
+    },
+    "url": "https://www.instagram.com/p/DBMfWVES-ww"
   },
   {
     "name": "Orange Tent Project Presents… An Odd Night Out",
     "startDate": "2024-10-28T00:00:00.000Z",
     "organizer": {
       "name": "Sleeping Village"
-    }
+    },
+    "url": "https://sleeping-village.com/event/orange-tent-project-presents-an-odd-night-out/"
   },
   {
     "name": "Fun Simulation 2000 Open Mic Comedy",
@@ -424,7 +180,8 @@
     "endDate": "2024-10-28T00:00:00-05:00",
     "organizer": {
       "name": "Reed's Local"
-    }
+    },
+    "url": "https://reedslocal.com/events/"
   },
   {
     "name": "Day of the Dead to Honor Pets",
@@ -432,15 +189,8 @@
     "endDate": "2024-10-28",
     "organizer": {
       "name": "Avondale Gardening Alliance"
-    }
-  },
-  {
-    "name": "Cash's Kitchen popup! - 4pm",
-    "startDate": "2024-10-27",
-    "endDate": "2024-10-28",
-    "organizer": {
-      "name": "Consignment Lounge"
-    }
+    },
+    "url": "https://avondalegardeningalliance.wordpress.com/about/aga-calendar/"
   },
   {
     "name": "Pen and Paper Trivia",
@@ -448,21 +198,32 @@
     "endDate": "2024-10-28",
     "organizer": {
       "name": "Consignment Lounge"
-    }
+    },
+    "url": "https://www.consignmentlounge.com/calendar"
   },
   {
     "name": "Yoga & Metal",
     "startDate": "2024-10-28T21:00:00.000Z",
     "organizer": {
       "name": "Doom Movement @ Ludlow Liquors"
-    }
+    },
+    "url": "https://www.instagram.com/p/DBbgDMBxCLB/"
+  },
+  {
+    "name": "Garden Work Day",
+    "startDate": "2024-10-28T21:30:00.000Z",
+    "organizer": {
+      "name": "Addison & Avondale Mural Garden"
+    },
+    "url": "https://www.facebook.com/share/p/4JP31ctsP8ngBrms/"
   },
   {
     "name": "Piñatta Pop-up",
     "startDate": "2024-10-28T22:00:00.000Z",
     "organizer": {
       "name": "Frank and Mary's"
-    }
+    },
+    "url": "https://frankandmarystavern.com/"
   },
   {
     "name": "Paint Party Fundraiser",
@@ -470,14 +231,16 @@
     "endDate": "2024-10-29T02:00:00.000Z",
     "organizer": {
       "name": "Harmony House for Cats"
-    }
+    },
+    "url": "https://hhforcats.org/spooky-paint-party-october-28-2024-at-7-pm/"
   },
   {
     "name": "Blood Disco: Mainstage Karaoke",
     "startDate": "2024-10-29T01:00:00.000Z",
     "organizer": {
       "name": "Sleeping Village"
-    }
+    },
+    "url": "https://sleeping-village.com/event/blood-disco-mainstage-karaoke/"
   },
   {
     "name": "Monday Movie Screening",
@@ -485,15 +248,17 @@
     "endDate": "2024-10-29",
     "organizer": {
       "name": "Consignment Lounge"
-    }
+    },
+    "url": "https://www.consignmentlounge.com/calendar"
   },
   {
     "name": "Free HIV & STI Testing",
     "startDate": "2024-10-29T20:00:00.000Z",
     "endDate": "2024-10-30T00:00:00.000Z",
     "organizer": {
-      "name": "2934 N Milwaukee, Unit C"
-    }
+      "name": "Chicago House @ 2934 N Milwaukee, Unit C"
+    },
+    "url": "https://www.instagram.com/p/DBaVtQ5xCTZ/"
   },
   {
     "name": "Cat Jam Chicago",
@@ -501,7 +266,25 @@
     "endDate": "2024-10-30T03:00:00Z",
     "organizer": {
       "name": "The Insect Asylum"
-    }
+    },
+    "url": "https://www.eventbrite.com/e/cat-jam-chicago-at-the-insect-asylum-tickets-1000948793787"
+  },
+  {
+    "name": "Signals & Pixels Art/Tech Meetup",
+    "startDate": "2024-10-30T00:00:00.000Z",
+    "endDate": "2024-10-30T03:00:00.000Z",
+    "organizer": {
+      "name": "Hairpin Arts Center"
+    },
+    "url": "https://www.eventbrite.com/e/signals-and-pixels-art-tech-meetup-tickets-696864990947"
+  },
+  {
+    "name": "Spooky Music Trivia",
+    "startDate": "2024-10-30T00:00:00.000Z",
+    "organizer": {
+      "name": "Pen & Paper Trivia @ Avondale Tap"
+    },
+    "url": "https://www.instagram.com/pandptrivia/"
   },
   {
     "name": "Karaoke with host Millie May",
@@ -509,7 +292,8 @@
     "endDate": "2024-10-30T02:00:00-05:00",
     "organizer": {
       "name": "Reed's Local"
-    }
+    },
+    "url": "https://reedslocal.com/events/"
   },
   {
     "name": "KARAOKE 🎤 - 8pm",
@@ -517,7 +301,8 @@
     "endDate": "2024-10-30",
     "organizer": {
       "name": "Consignment Lounge"
-    }
+    },
+    "url": "https://www.consignmentlounge.com/calendar"
   },
   {
     "name": "Warhammer 40k: Kill Team Night",
@@ -525,7 +310,17 @@
     "endDate": "2024-10-30T21:00:00-05:00",
     "organizer": {
       "name": "Prism Games Chicago"
-    }
+    },
+    "url": "https://www.prismgameschicago.com/event-details-registration/warhammer-40k-kill-team-night-2024-10-30-17-00"
+  },
+  {
+    "name": "Acoustics Cyphers Hip Hop Show",
+    "startDate": "2024-10-30T22:00:00.000Z",
+    "endDate": "2024-10-31T00:00:00.000Z",
+    "organizer": {
+      "name": "Hairpin Arts Center"
+    },
+    "url": "https://www.hairpinartscenter.org/events#calendar-6de8e8b2-a4f5-4a92-82c3-534dcdbc25c6-event-lf3jywzi"
   },
   {
     "name": "Happy Hour Pizza Making Class",
@@ -533,7 +328,8 @@
     "endDate": "2024-10-30T20:30:00-0500",
     "organizer": {
       "name": "Tutore"
-    }
+    },
+    "url": "https://www.tutorecookingschool.com/class-schedule/pasta-101-class-aawrp-xfrb5-dy5wk-cdz28-xyhhp-hyc9m-tmlrp"
   },
   {
     "name": "Costume/Crafting Coworking Session",
@@ -541,7 +337,8 @@
     "endDate": "2024-10-31T01:00:00.000Z",
     "organizer": {
       "name": "Skunk Cabbage Books"
-    }
+    },
+    "url": "https://skunkcabbagebooks.com/events"
   },
   {
     "name": "AEW Watch Party",
@@ -549,14 +346,16 @@
     "endDate": "2024-10-30T21:00:00-05:00",
     "organizer": {
       "name": "Reed's Local"
-    }
+    },
+    "url": "https://reedslocal.com/events/"
   },
   {
     "name": "Dyke Fright – A Queer Halloween Fest",
     "startDate": "2024-10-31T00:00:00.000Z",
     "organizer": {
       "name": "Sleeping Village"
-    }
+    },
+    "url": "https://sleeping-village.com/event/dyke-fright-a-queer-halloween-fest/"
   },
   {
     "name": "Milo's Market 6-10",
@@ -564,14 +363,26 @@
     "endDate": "2024-10-31",
     "organizer": {
       "name": "Consignment Lounge"
-    }
+    },
+    "url": "https://www.consignmentlounge.com/calendar"
+  },
+  {
+    "name": "The Witches Garden - Treats & Potions for Children & Adults",
+    "startDate": "2024-10-31T21:00:00.000Z",
+    "endDate": "2024-11-01T02:00:00.000Z",
+    "organizer": {
+      "name": "Mindful Living Garden (3323 N Drake)"
+    },
+    "url": "https://www.facebook.com/groups/274320690379131"
   },
   {
     "name": "Avondale Halloween Parade & Spooktacular Party",
     "startDate": "2024-10-31T21:30:00.000Z",
+    "endDate": "2024-11-01T02:00:00.000Z",
     "organizer": {
-      "name": "Chief O'Neil's -> Michelle's Ballroom"
-    }
+      "name": "Chief O'Neil's → Michelle's Ballroom"
+    },
+    "url": "https://www.instagram.com/p/DBRnjX8PxxX/?img_index=1"
   },
   {
     "name": "Trick or Treat!: Casual Commander & Chaos Sealed!",
@@ -579,7 +390,17 @@
     "endDate": "2024-10-31T21:00:00-05:00",
     "organizer": {
       "name": "Prism Games Chicago"
-    }
+    },
+    "url": "https://www.prismgameschicago.com/event-details-registration/trick-or-treat-casual-commander-chaos-sealed"
+  },
+  {
+    "name": "Magic the Gathering: Commander Night!",
+    "startDate": "2024-10-31T17:00:00-05:00",
+    "endDate": "2024-10-31T21:00:00-05:00",
+    "organizer": {
+      "name": "Prism Games Chicago"
+    },
+    "url": "https://www.prismgameschicago.com/event-details-registration/magic-the-gathering-commander-night-2024-10-31-17-00"
   },
   {
     "name": "Trick or Treat with Our Animal Friends!",
@@ -587,7 +408,8 @@
     "endDate": "2024-11-01T01:00:00Z",
     "organizer": {
       "name": "The Insect Asylum"
-    }
+    },
+    "url": "https://www.eventbrite.com/e/trick-or-treat-with-our-animal-friends-tickets-1030220375877"
   },
   {
     "name": "Braida Wine Dinner",
@@ -595,7 +417,8 @@
     "endDate": "2024-10-31T20:25:00-0500",
     "organizer": {
       "name": "Tutore"
-    }
+    },
+    "url": "https://www.tutorecookingschool.com/class-schedule/rotolo-di-pollo-1-bd3a6-zkl5g"
   },
   {
     "name": "Industrial Halloween with DJ Jeff Moyer - Thursday Oct 31st",
@@ -603,7 +426,17 @@
     "endDate": "2024-11-01T04:00:00-05:00",
     "organizer": {
       "name": "Late Bar"
-    }
+    },
+    "url": "https://do312.com/events/2024/10/31/industrial-halloween-with-dj-jeff-moyer-thursday-oct-31st-tickets"
+  },
+  {
+    "name": "Monster Mash Dance Party ",
+    "startDate": "2024-11-01T02:00:00.000Z",
+    "endDate": "2024-11-01T06:00:00.000Z",
+    "organizer": {
+      "name": "Mother's Ruin "
+    },
+    "url": "https://www.instagram.com/p/DBg6U5Jvmpn/"
   },
   {
     "name": "Halloween Karaoke Party",
@@ -611,7 +444,8 @@
     "endDate": "2024-11-01T00:00:00-05:00",
     "organizer": {
       "name": "Reed's Local"
-    }
+    },
+    "url": "https://reedslocal.com/events/"
   },
   {
     "name": "Pierogi Papi",
@@ -619,7 +453,8 @@
     "endDate": "2024-11-01",
     "organizer": {
       "name": "Consignment Lounge"
-    }
+    },
+    "url": "https://www.consignmentlounge.com/calendar"
   },
   {
     "name": "Trick or Treating",
@@ -633,7 +468,8 @@
     "startDate": "2024-10-31",
     "organizer": {
       "name": "Avondale Bowl"
-    }
+    },
+    "url": "https://www.instagram.com/avondalebowl/?hl=en"
   },
   {
     "name": "Halloween Drag Show & Trick or Treating Trolley",
@@ -648,7 +484,8 @@
     "endDate": "2024-11-01T20:30:00Z",
     "organizer": {
       "name": "The Insect Asylum"
-    }
+    },
+    "url": "https://www.eventbrite.com/e/sensory-friendly-friday-tickets-1000899135257"
   },
   {
     "name": "Why Knot Fibers Trunk Show",
@@ -656,7 +493,8 @@
     "endDate": "2024-11-03T16:00:00-0600",
     "organizer": {
       "name": "Firefly Fiber Arts Studio"
-    }
+    },
+    "url": "https://www.fireflyfiberarts.com/new-events-1/2024/11/1/why-knot-fibers-trunk-show"
   },
   {
     "name": "Annual Halloween Movie Night",
@@ -664,7 +502,8 @@
     "endDate": "2024-11-01T20:00:00-0500",
     "organizer": {
       "name": "Firefly Fiber Arts Studio"
-    }
+    },
+    "url": "https://www.fireflyfiberarts.com/new-events-1/2023/10/27/halloween-maker-night-rcm5y"
   },
   {
     "name": "Pasta 101 Class",
@@ -672,14 +511,34 @@
     "endDate": "2024-11-01T21:00:00-0500",
     "organizer": {
       "name": "Tutore"
-    }
+    },
+    "url": "https://www.tutorecookingschool.com/class-schedule/pasta-101-class-aawrp-8jthj-ch3sy-cwxc9-fcy67-dyy98-lpexw-5hxtc-na28y-l2r6j-bfrgy-6pjhp-25rmf-sh3wm-6xtsb-k4nk9-ay7zb-n5j7e-fk5ke"
+  },
+  {
+    "name": "Jahctober 2 | First Friday",
+    "startDate": "2024-11-01T19:00:00-05:00",
+    "endDate": "2024-11-01T23:00:00-05:00",
+    "organizer": {
+      "name": "Hairpin Arts Center"
+    },
+    "url": "https://www.eventbrite.com/e/jahctober-2-first-friday-tickets-1029113013727"
+  },
+  {
+    "name": "Heavy Chicago II",
+    "startDate": "2024-11-01T19:00:00-05:00",
+    "endDate": null,
+    "organizer": {
+      "name": "Avondale Music Hall "
+    },
+    "url": "https://do312.com/events/2024/11/1/heavy-chicago-ii-tickets"
   },
   {
     "name": "DEAD INSIDE 4 YEAR BIRTHDAY MELTDOWN",
     "startDate": "2024-11-02T01:00:00.000Z",
     "organizer": {
       "name": "Sleeping Village"
-    }
+    },
+    "url": "https://sleeping-village.com/event/dead-inside-4-year-birthday-meltdown/"
   },
   {
     "name": "DJ Jeff Moyer Music Video Mashup",
@@ -687,7 +546,8 @@
     "endDate": "2024-11-02T04:00:00-05:00",
     "organizer": {
       "name": "Late Bar"
-    }
+    },
+    "url": "https://do312.com/events/2024/11/1/dj-jeff-moyer-music-video-mashup-at-late-bar-tickets"
   },
   {
     "name": "Halloween Show",
@@ -695,7 +555,8 @@
     "endDate": "2024-11-02T10:00:00-05:00",
     "organizer": {
       "name": "Reed's Local"
-    }
+    },
+    "url": "https://reedslocal.com/events/"
   },
   {
     "name": "Day of the Dead",
@@ -703,7 +564,8 @@
     "endDate": "2024-11-02",
     "organizer": {
       "name": "Avondale Gardening Alliance"
-    }
+    },
+    "url": "https://avondalegardeningalliance.wordpress.com/about/aga-calendar/"
   },
   {
     "name": "Pierogi Papi",
@@ -711,7 +573,8 @@
     "endDate": "2024-11-02",
     "organizer": {
       "name": "Consignment Lounge"
-    }
+    },
+    "url": "https://www.consignmentlounge.com/calendar"
   },
   {
     "name": "Twilight of the Republic Prerelease | Star Wars: Unlimited",
@@ -719,7 +582,8 @@
     "endDate": "2024-11-02T17:00:00-05:00",
     "organizer": {
       "name": "Prism Games Chicago "
-    }
+    },
+    "url": "https://www.prismgameschicago.com/event-details-registration/twilight-of-the-republic-prerelease-star-wars-unlimited"
   },
   {
     "name": "Intro to Hand Darning Workshop",
@@ -727,7 +591,8 @@
     "endDate": "2024-11-02T17:00:00-0500",
     "organizer": {
       "name": "Firefly Fiber Arts Studio"
-    }
+    },
+    "url": "https://www.fireflyfiberarts.com/new-events-1/2024/11/2/intro-to-hand-darning-workshop"
   },
   {
     "name": "Pasta and Mushrooms",
@@ -735,7 +600,8 @@
     "endDate": "2024-11-02T20:30:00-0500",
     "organizer": {
       "name": "Tutore"
-    }
+    },
+    "url": "https://www.tutorecookingschool.com/class-schedule/pasta-101-class-aawrp-8jthj-ch3sy-cwxc9-fcy67-dyy98-lpexw-l47bl-h2ft6-jma6w-5mgjz-kker6-z8xhm"
   },
   {
     "name": "Opossum Paint and Sip Art Night! BYOB",
@@ -743,14 +609,25 @@
     "endDate": "2024-11-03T01:30:00Z",
     "organizer": {
       "name": "The Insect Asylum"
-    }
+    },
+    "url": "https://www.eventbrite.com/e/opossum-paint-and-sip-art-night-byob-the-insect-asylum-tickets-1018480912827"
+  },
+  {
+    "name": "Heavy Chicago II - Saturday",
+    "startDate": "2024-11-02T19:00:00-05:00",
+    "endDate": null,
+    "organizer": {
+      "name": "Avondale Music Hall "
+    },
+    "url": "https://do312.com/events/2024/11/2/heavy-chicago-ii-saturday-tickets"
   },
   {
     "name": "SWIRLIES w/ Astrobrite",
     "startDate": "2024-11-03T02:00:00.000Z",
     "organizer": {
       "name": "Sleeping Village"
-    }
+    },
+    "url": "https://sleeping-village.com/event/swirlies-w-astrobrite/"
   },
   {
     "name": "Garage & Punk Karaoke Party",
@@ -758,7 +635,8 @@
     "endDate": "2024-11-03T00:00:00-05:00",
     "organizer": {
       "name": "Reed's Local"
-    }
+    },
+    "url": "https://reedslocal.com/events/"
   },
   {
     "name": "Karaoke hosted by Sweet Melissa",
@@ -766,7 +644,8 @@
     "endDate": "2024-11-03T02:00:00-06:00",
     "organizer": {
       "name": "Reed's Local"
-    }
+    },
+    "url": "https://reedslocal.com/events/"
   },
   {
     "name": "AGA Houseplant Swap closes online",
@@ -774,7 +653,8 @@
     "endDate": "2024-11-03",
     "organizer": {
       "name": "Avondale Gardening Alliance"
-    }
+    },
+    "url": "https://avondalegardeningalliance.wordpress.com/about/aga-calendar/"
   },
   {
     "name": "Pizza Making Class",
@@ -782,7 +662,8 @@
     "endDate": "2024-11-03T13:30:00-0600",
     "organizer": {
       "name": "Tutore"
-    }
+    },
+    "url": "https://www.tutorecookingschool.com/class-schedule/pasta-101-class-aawrp-xfrb5-dy5wk-x7dk5-rrmy3-dajha-mb5b9"
   },
   {
     "name": "Pop Punk Brunch",
@@ -790,7 +671,8 @@
     "endDate": "2024-11-03T21:00:00.000Z",
     "organizer": {
       "name": "Mother's Ruin"
-    }
+    },
+    "url": "https://www.instagram.com/mothersruinchicago/"
   },
   {
     "name": "Sensory Seeking Sunday",
@@ -798,7 +680,17 @@
     "endDate": "2024-11-03T20:30:00Z",
     "organizer": {
       "name": "The Insect Asylum"
-    }
+    },
+    "url": "https://www.eventbrite.com/e/sensory-seeking-sunday-tickets-1000837811837"
+  },
+  {
+    "name": "Heavy Chicago II - Sunday",
+    "startDate": "2024-11-03T19:00:00-06:00",
+    "endDate": null,
+    "organizer": {
+      "name": "Avondale Music Hall "
+    },
+    "url": "https://do312.com/events/2024/11/3/heavy-chicago-ii-sunday-tickets"
   },
   {
     "name": "Fun Simulation 2000 Open Mic Comedy",
@@ -806,7 +698,8 @@
     "endDate": "2024-11-04T00:00:00-06:00",
     "organizer": {
       "name": "Reed's Local"
-    }
+    },
+    "url": "https://reedslocal.com/events/"
   },
   {
     "name": "Houseplant Swap & Bingo",
@@ -814,7 +707,8 @@
     "endDate": "2024-11-04",
     "organizer": {
       "name": "Avondale Gardening Alliance"
-    }
+    },
+    "url": "https://avondalegardeningalliance.wordpress.com/about/aga-calendar/"
   },
   {
     "name": "Leroy Bach Music Night",
@@ -822,6 +716,309 @@
     "endDate": "2024-11-04",
     "organizer": {
       "name": "Consignment Lounge"
-    }
+    },
+    "url": "https://www.consignmentlounge.com/calendar"
+  },
+  {
+    "name": "Fall Open House",
+    "startDate": "2024-11-04T21:00:00.000Z",
+    "endDate": "2024-11-05T00:00:00.000Z",
+    "organizer": {
+      "name": "LoSAH Center of Hope"
+    },
+    "url": "https://www.instagram.com/p/DBb8n-zvqMP/"
+  },
+  {
+    "name": "Karaoke with host Millie May",
+    "startDate": "2024-11-05T22:00:00-06:00",
+    "endDate": "2024-11-06T02:00:00-06:00",
+    "organizer": {
+      "name": "Reed's Local"
+    },
+    "url": "https://reedslocal.com/events/"
+  },
+  {
+    "name": "Community Day 1/2 Off Admission",
+    "startDate": "2024-11-06T21:00:00Z",
+    "endDate": "2024-11-07T02:00:00Z",
+    "organizer": {
+      "name": "The Insect Asylum"
+    },
+    "url": "https://www.eventbrite.com/e/community-day-12-off-admission-tickets-1000926968507"
+  },
+  {
+    "name": "Classic and Modern Italian Sauce Class",
+    "startDate": "2024-11-06T18:00:00-0600",
+    "endDate": "2024-11-06T20:00:00-0600",
+    "organizer": {
+      "name": "Tutore"
+    },
+    "url": "https://www.tutorecookingschool.com/class-schedule/spring-risotto-54dhn-lmznc-p8ssk-cnly2-arbfj-sp2b5-5n3tp"
+  },
+  {
+    "name": "AEW Watch Party",
+    "startDate": "2024-11-06T19:00:00-06:00",
+    "endDate": "2024-11-06T21:00:00-06:00",
+    "organizer": {
+      "name": "Reed's Local"
+    },
+    "url": "https://reedslocal.com/events/"
+  },
+  {
+    "name": "UPAC Monthly Meeting",
+    "startDate": "2024-11-06T19:00:00-06:00",
+    "endDate": "2024-11-06T20:15:00-06:00",
+    "organizer": {
+      "name": "Unity Park"
+    },
+    "url": "https://www.unityparkchicago.org/coming-events"
+  },
+  {
+    "name": "Gogol Bordello",
+    "startDate": "2024-11-06T19:00:00-06:00",
+    "endDate": null,
+    "organizer": {
+      "name": "Avondale Music Hall "
+    },
+    "url": "https://do312.com/events/2024/11/6/gogol-bordello-tickets"
+  },
+  {
+    "name": "A Yarn & Wine Tasting",
+    "startDate": "2024-11-06T20:00:00-0600",
+    "endDate": "2024-11-06T21:30:00-0600",
+    "organizer": {
+      "name": "Firefly Fiber Arts Studio"
+    },
+    "url": "https://www.fireflyfiberarts.com/new-events-1/2024/10/2/a-yarn-amp-wine-tasting-n2azr"
+  },
+  {
+    "name": "Milo's Market 6-10",
+    "startDate": "2024-11-06",
+    "endDate": "2024-11-07",
+    "organizer": {
+      "name": "Consignment Lounge"
+    },
+    "url": "https://www.consignmentlounge.com/calendar"
+  },
+  {
+    "name": "Happy Hour Pasta Class",
+    "startDate": "2024-11-07T18:00:00-0600",
+    "endDate": "2024-11-07T20:30:00-0600",
+    "organizer": {
+      "name": "Tutore"
+    },
+    "url": "https://www.tutorecookingschool.com/class-schedule/pasta-101-class-aawrp-8jthj-ch3sy-cwxc9-fcy67-dyy98-lpexw-5hxtc-na28y-l2r6j-bfrgy-h28yr-f8geg-stpte-m5bme-x7c5e-84jle-66w4x"
+  },
+  {
+    "name": "Trauma Ray w/ Leaving Time, Bursting",
+    "startDate": "2024-11-08T03:00:00.000Z",
+    "organizer": {
+      "name": "Sleeping Village"
+    },
+    "url": "https://sleeping-village.com/event/trauma-ray-w-leaving-time/"
+  },
+  {
+    "name": "Pierogi Papi",
+    "startDate": "2024-11-07",
+    "endDate": "2024-11-08",
+    "organizer": {
+      "name": "Consignment Lounge"
+    },
+    "url": "https://www.consignmentlounge.com/calendar"
+  },
+  {
+    "name": "Sensory Friendly Friday",
+    "startDate": "2024-11-08T17:00:00Z",
+    "endDate": "2024-11-08T21:30:00Z",
+    "organizer": {
+      "name": "The Insect Asylum"
+    },
+    "url": "https://www.eventbrite.com/e/sensory-friendly-friday-tickets-1000902114167"
+  },
+  {
+    "name": "Magic The Gathering: Foundations Friday Prerelease",
+    "startDate": "2024-11-08T18:00:00-06:00",
+    "endDate": "2024-11-08T22:00:00-06:00",
+    "organizer": {
+      "name": "Prism Games Chicago"
+    },
+    "url": "https://www.prismgameschicago.com/event-details-registration/magic-the-gathering-foundations-friday-prerelease"
+  },
+  {
+    "name": "Tabletop Game Developer Night",
+    "startDate": "2024-11-08T18:00:00-06:00",
+    "endDate": "2024-11-08T21:00:00-06:00",
+    "organizer": {
+      "name": "Prism Games Chicago"
+    },
+    "url": "https://www.prismgameschicago.com/event-details-registration/tabletop-game-developer-night-2024-11-08-18-00"
+  },
+  {
+    "name": "Gnocchi 201",
+    "startDate": "2024-11-08T18:30:00-0600",
+    "endDate": "2024-11-08T21:00:00-0600",
+    "organizer": {
+      "name": "Tutore"
+    },
+    "url": "https://www.tutorecookingschool.com/class-schedule/gnocchi-6mccz-8wmap-ktnjk-nearr-hlbxp-2p68d-rp894"
+  },
+  {
+    "name": "Bearings & Broadside",
+    "startDate": "2024-11-08T19:00:00-06:00",
+    "endDate": null,
+    "organizer": {
+      "name": "Avondale Music Hall "
+    },
+    "url": "https://do312.com/events/2024/11/8/bearings-broadside-tickets"
+  },
+  {
+    "name": "Electronic Transmission",
+    "startDate": "2024-11-08T20:00:00-06:00",
+    "endDate": "2024-11-09T04:00:00-06:00",
+    "organizer": {
+      "name": "Late Bar"
+    },
+    "url": "https://do312.com/events/2024/11/8/electronic-transmission-tickets"
+  },
+  {
+    "name": "GLOBAL CURRENCY",
+    "startDate": "2024-11-09T03:00:00.000Z",
+    "organizer": {
+      "name": "Sleeping Village"
+    },
+    "url": "https://sleeping-village.com/event/global-currency-5/"
+  },
+  {
+    "name": "Pierogi Papi",
+    "startDate": "2024-11-08",
+    "endDate": "2024-11-09",
+    "organizer": {
+      "name": "Consignment Lounge"
+    },
+    "url": "https://www.consignmentlounge.com/calendar"
+  },
+  {
+    "name": "Fall Family Health Fair",
+    "startDate": "2024-11-09T15:00:00.000Z",
+    "endDate": "2024-11-09T18:00:00.000Z",
+    "organizer": {
+      "name": "Koz Park"
+    },
+    "url": "https://www.facebook.com/events/kosciuszko-park/fall-family-health-fair/601679880966863/"
+  },
+  {
+    "name": "Pumpkin Smash (Pumpkin Composting)",
+    "startDate": "2024-11-09T16:00:00.000Z",
+    "endDate": "2024-11-09T20:00:00.000Z",
+    "organizer": {
+      "name": "Carl Von Linné Elementary School"
+    },
+    "url": "https://www.instagram.com/p/DBH4bjevlVl/"
+  },
+  {
+    "name": "Magic The Gathering: Foundations Saturday Prerelease",
+    "startDate": "2024-11-09T17:00:00-06:00",
+    "endDate": "2024-11-09T21:00:00-06:00",
+    "organizer": {
+      "name": "Prism Games Chicago"
+    },
+    "url": "https://www.prismgameschicago.com/event-details-registration/magic-the-gathering-foundations-saturday-prerelease"
+  },
+  {
+    "name": "Pasta 101 Class",
+    "startDate": "2024-11-09T18:00:00-0600",
+    "endDate": "2024-11-09T20:30:00-0600",
+    "organizer": {
+      "name": "Tutore"
+    },
+    "url": "https://www.tutorecookingschool.com/class-schedule/pasta-101-class-aawrp-8jthj-ch3sy-cwxc9-fcy67-dyy98-lpexw-5hxtc-na28y-l2r6j-bfrgy-6pjhp-25rmf-sh3wm-6xtsb-k4nk9-ay7zb-n5j7e-gl2xx-tmzhj-9lsyf"
+  },
+  {
+    "name": "Ian",
+    "startDate": "2024-11-09T19:00:00-06:00",
+    "endDate": null,
+    "organizer": {
+      "name": "Avondale Music Hall "
+    },
+    "url": "https://do312.com/events/2024/11/9/ian-tickets"
+  },
+  {
+    "name": "DR. GABBA w/ Ariel Zetina",
+    "startDate": "2024-11-10T03:00:00.000Z",
+    "organizer": {
+      "name": "Sleeping Village"
+    },
+    "url": "https://sleeping-village.com/event/dr-gabba/"
+  },
+  {
+    "name": "Karaoke hosted by Sweet Melissa",
+    "startDate": "2024-11-09T22:00:00-06:00",
+    "endDate": "2024-11-10T03:00:00-06:00",
+    "organizer": {
+      "name": "Reed's Local"
+    },
+    "url": "https://reedslocal.com/events/"
+  },
+  {
+    "name": "Pasta 101 Class",
+    "startDate": "2024-11-10T11:00:00-0600",
+    "endDate": "2024-11-10T13:30:00-0600",
+    "organizer": {
+      "name": "Tutore"
+    },
+    "url": "https://www.tutorecookingschool.com/class-schedule/pasta-101-class-aawrp-8jthj-ch3sy-cwxc9-fcy67-dyy98-lpexw-5hxtc-na28y-l2r6j-bfrgy-6pjhp-25rmf-sh3wm-6xtsb-k4nk9-ay7zb-n5j7e-gl2xx-tmzhj-9lsyf-dpwyc"
+  },
+  {
+    "name": "UN35 Monthly Meeting",
+    "startDate": "2024-11-10T18:00:00.000Z",
+    "organizer": {
+      "name": "United Neighbors of the 35th Ward"
+    },
+    "url": "https://www.un35.org/"
+  },
+  {
+    "name": "Untap, Upkeep, Drag! | Magic the Gathering: Foundations Drag Show and Prerelease",
+    "startDate": "2024-11-10T13:00:00-06:00",
+    "endDate": "2024-11-10T18:00:00-06:00",
+    "organizer": {
+      "name": "Prism Games Chicago"
+    },
+    "url": "https://www.prismgameschicago.com/event-details-registration/untap-upkeep-drag-magic-the-gathering-foundations-drag-show-and-prerelease"
+  },
+  {
+    "name": "Intro to Bookbinding: Notebook",
+    "startDate": "2024-11-10T13:30:00-0600",
+    "endDate": "2024-11-10T15:30:00-0600",
+    "organizer": {
+      "name": "Firefly Fiber Arts Studio"
+    },
+    "url": "https://www.fireflyfiberarts.com/new-events-1/2024/11/10/bookbinding"
+  },
+  {
+    "name": "Sensory Seeking Sunday",
+    "startDate": "2024-11-10T19:30:00Z",
+    "endDate": "2024-11-10T20:30:00Z",
+    "organizer": {
+      "name": "The Insect Asylum"
+    },
+    "url": "https://www.eventbrite.com/e/sensory-seeking-sunday-tickets-1000846608147"
+  },
+  {
+    "name": "Baby Kia",
+    "startDate": "2024-11-10T19:00:00-06:00",
+    "endDate": null,
+    "organizer": {
+      "name": "Avondale Music Hall "
+    },
+    "url": "https://do312.com/events/2024/11/10/baby-kia-tickets"
+  },
+  {
+    "name": "Fun Simulation 2000 Open Mic Comedy",
+    "startDate": "2024-11-10T22:00:00-06:00",
+    "endDate": "2024-11-11T00:00:00-06:00",
+    "organizer": {
+      "name": "Reed's Local"
+    },
+    "url": "https://reedslocal.com/events/"
   }
 ]
