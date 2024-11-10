@@ -16,7 +16,7 @@ export default function Home() {
 
 
   return (
-    <div className="items-center justify-items-center min-h-screen p-8 font-[family-name:var(--font-geist-sans)]">
+    <div className="items-center justify-items-center min-h-screen p-6 font-[family-name:var(--font-geist-sans)]">
       <main className="flex flex-col items-center">
        <EventList events={events}/>
       </main>
