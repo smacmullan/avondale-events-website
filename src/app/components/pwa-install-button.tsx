@@ -54,7 +54,7 @@ export default function PwaInstallButton(){
     return (
         <button
             onClick={handleInstallClick}
-            className="px-4 pb-4 text-blue-500 text-sm underline"
+            className="px-4"
         >
             Get the App
         </button>

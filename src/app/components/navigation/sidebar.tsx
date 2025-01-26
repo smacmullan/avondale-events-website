@@ -1,4 +1,5 @@
 import Link from "next/link";
+import PwaInstallButton from "../pwa-install-button";
 
 export default function Sidebar({
     isOpen,
@@ -17,7 +18,7 @@ export default function Sidebar({
                 </button>
 
                 <ul className="text-center text-black leading-relaxed text-xl flex flex-col gap-y-8">
-                    
+
                     <li>
                         <Link href="/">
                             <p>Events</p>
@@ -33,7 +34,9 @@ export default function Sidebar({
                             <p>Follow on Instagram</p>
                         </Link>
                     </li>
-
+                    <li>
+                        <PwaInstallButton />
+                    </li>
                 </ul>
             </div>
         </>
