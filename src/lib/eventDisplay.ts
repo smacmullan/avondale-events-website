@@ -1,5 +1,5 @@
-import { eventSort, formatDay, isISODate } from "@/app/lib/time";
-import { Event } from "@/app/lib/definitions";
+import { eventSort, formatDay, isISODate } from "@/lib/time";
+import type { Event } from "@/lib/definitions";
 
 export type DaySchedule = {
   dayDisplay: string;
@@ -37,10 +37,9 @@ export function generateEventSchedule(events: Event[]): DaySchedule[] {
 };
 
 
-export function removePastEvents(events: Event[]): Event[] {
+export function removePastEvents(events: Event[], now = new Date()): Event[] {
 
-  const now = new Date();
-  const today = new Date();
+  const today = new Date(now);
   today.setHours(0, 0, 0, 0); // today at 00:00
 
   return events.filter((event: Event) => {

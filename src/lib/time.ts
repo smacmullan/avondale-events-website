@@ -1,4 +1,4 @@
-import { Event } from "./definitions";
+import type { Event } from "./definitions";
 
 // copied from avondale-event-indexer repo
 

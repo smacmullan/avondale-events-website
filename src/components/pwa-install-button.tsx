@@ -1,23 +1,32 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
-export default function PwaInstallButton(){
-    const [deferredPrompt, setDeferredPrompt] = useState<any>(null);
+type BeforeInstallPromptEvent = Event & {
+    prompt: () => Promise<void>;
+    userChoice: Promise<{ outcome: "accepted" | "dismissed" }>;
+};
+
+export default function PwaInstallButton() {
+    const [deferredPrompt, setDeferredPrompt] = useState<BeforeInstallPromptEvent | null>(null);
     const [isIos, setIsIos] = useState(false);
     const [isInStandaloneMode, setIsInStandaloneMode] = useState<boolean | null>(null);
 
     useEffect(() => {
-        // Detect iOS Safari
         const userAgent = window.navigator.userAgent.toLowerCase();
-        const isIosDevice = /iphone|ipad|ipod/.test(userAgent);
-        const isStandalone = window.matchMedia('(display-mode: standalone)').matches;
+        const isIosDevice = /iphone|ipad|ipod/.test(userAgent) ||
+            (/macintosh/.test(userAgent) && window.navigator.maxTouchPoints > 1);
+        const isStandalone = window.matchMedia("(display-mode: standalone)").matches ||
+            ("standalone" in window.navigator && window.navigator.standalone === true);
 
         setIsIos(isIosDevice);
         setIsInStandaloneMode(isStandalone);
 
-        // Listen for the beforeinstallprompt event
-        const handleBeforeInstallPrompt = (e: any) => {
-            e.preventDefault(); // Prevent the default mini-infobar
-            setDeferredPrompt(e);
+        const handleBeforeInstallPrompt = (event: Event) => {
+            if (!("prompt" in event) || typeof event.prompt !== "function" || !("userChoice" in event)) {
+                return;
+            }
+
+            event.preventDefault();
+            setDeferredPrompt(event as BeforeInstallPromptEvent);
         };
 
         window.addEventListener("beforeinstallprompt", handleBeforeInstallPrompt);
@@ -27,17 +36,21 @@ export default function PwaInstallButton(){
         };
     }, []);
 
-    const handleInstallClick = () => {
+    const handleInstallClick = async () => {
         if (deferredPrompt) {
-            deferredPrompt.prompt(); // Show the install prompt
-            deferredPrompt.userChoice.then((choiceResult: any) => {
+            try {
+                await deferredPrompt.prompt();
+                const choiceResult = await deferredPrompt.userChoice;
                 if (choiceResult.outcome === "accepted") {
                     console.log("User accepted the install prompt");
                 } else {
                     console.log("User dismissed the install prompt");
                 }
                 setDeferredPrompt(null);
-            });
+            } catch (error) {
+                console.error("Unable to start PWA installation", error);
+                alert("The app could not be installed. Please try again later.");
+            }
         } else if (isIos && !isInStandaloneMode) {
             alert(
                 "To install this app, tap the 'Share' button in Safari, then select 'Add to Home Screen'."

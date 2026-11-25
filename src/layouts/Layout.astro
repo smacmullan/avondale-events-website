@@ -1,0 +1,24 @@
+---
+import Navigation from "../components/navigation/navigation";
+import "../styles/global.css";
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta
+      name="description"
+      content="Find things to do in Avondale, Chicago: events, shows, workshops, community meetings, and more."
+    />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <title>Avondale Events</title>
+  </head>
+  <body class="antialiased">
+    <Navigation client:load />
+    <div class="pt-16 flex-grow">
+      <slot />
+    </div>
+  </body>
+</html>

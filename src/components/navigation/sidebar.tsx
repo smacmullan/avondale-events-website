@@ -1,4 +1,3 @@
-import Link from "next/link";
 import PwaInstallButton from "../pwa-install-button";
 
 export default function Sidebar({
@@ -20,24 +19,24 @@ export default function Sidebar({
                 <ul className="text-center text-black leading-relaxed text-xl flex flex-col gap-y-8">
 
                     <li>
-                        <Link href="/">
+                        <a href="/">
                             <p>Events</p>
-                        </Link>
+                        </a>
                     </li>
                     <li>
-                        <Link href="https://forms.gle/qKwAdmRgGEDykowE8">
+                        <a href="https://forms.gle/qKwAdmRgGEDykowE8">
                             <p>Submit an Event</p>
-                        </Link>
+                        </a>
                     </li>
                     <li>
-                        <Link href="https://us8.campaign-archive.com/home/?u=33e0baf6c82d89d58ee3edc46&id=708eb4487d">
+                        <a href="https://us8.campaign-archive.com/home/?u=33e0baf6c82d89d58ee3edc46&id=708eb4487d">
                             <p>Newsletter</p>
-                        </Link>
+                        </a>
                     </li>
                     <li>
-                        <Link href="https://www.instagram.com/avondale_events/?hl=en">
+                        <a href="https://www.instagram.com/avondale_events/?hl=en">
                             <p>Follow on Instagram</p>
-                        </Link>
+                        </a>
                     </li>
                     <li>
                         <PwaInstallButton />
